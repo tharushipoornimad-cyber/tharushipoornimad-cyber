@@ -1,6 +1,6 @@
-Hi, I'm Tharushi Poornima 👋
+Hi, I'm Tharushi Poornima 
 
-🎓 Management and Information Technology Undergraduate at the University of Kelaniya, Sri Lanka.
+Management and Information Technology Undergraduate at the University of Kelaniya, Sri Lanka.
 
 About Me
 
@@ -38,7 +38,7 @@ Connect With Me
 
 LinkedIn: My LinkedIn Profile
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 <!--
 **tharushipoornimad-cyber/tharushipoornimad-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
